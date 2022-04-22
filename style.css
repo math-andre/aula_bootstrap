@@ -1,0 +1,25 @@
+body{
+    font: 20px Arial, sans-serif; 
+}
+.navbar {
+    background-color: blueviolet;
+}
+.quem-somos{
+    background-color:bisque;
+}
+.margem{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+
+.parceiros{
+    background-color: rgb(180, 107, 180);
+
+}
+.servicos{
+    background-color: rgb(238, 118, 154);
+}
+.rodape{
+    background-color: cornflowerblue;
+}
